@@ -3,4 +3,24 @@
     width: 100%;
     background-image: url("japan.jpg");
     background-size: cover;
+    text-align: center;
+    font-size: 400px;
+    color: #bc002d;
+    text-shadow:
+    0 5px #bd1a40,
+    0 10px #b93353,
+    0 15px #b15268,
+    0 20px #b36b7b,
+    0 25px #b38b93,
+    0 30px #837fb4,
+    0 35px #746eb8,
+    0 40px #6058bd,
+    0 45px #4c42be,
+    0 60px  10px  rgba(46, 31, 187, 0.566),
+    0 0    50px  rgba(46, 31, 187, 0.466),
+    0 10px  30px  rgba(46, 31, 187, 0.366),
+    0 30px  50px  rgba(46, 31, 187, 0.266),
+    0 50px  100px rgba(46, 31, 187, 0.166),
+    0 100px 100px rgba(46, 31, 187, 0.066),
+    0 200px 200px rgba(46, 31, 187, 0.006);
   }
